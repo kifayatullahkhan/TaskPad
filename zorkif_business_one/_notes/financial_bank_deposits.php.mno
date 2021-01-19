@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetBankNames" value="name:BankID;datatype:int,name:BankName;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_GetBankNamesEdit" value="name:BankID;datatype:int,name:BankName;datatype:string,name:Comments;datatype:string" />
+</info>

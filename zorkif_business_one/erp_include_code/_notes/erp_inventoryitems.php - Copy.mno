@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllRecords" value="name:WHID;datatype:int,name:WHName;datatype:string,name:WHAddress;datatype:string,name:WHPhone;datatype:string,name:WHContactPerson;datatype:string,name:WHComments;datatype:string" />
+	<infoitem key="UD_RSGetSelectedRecord" value="name:WHID;datatype:int,name:WHName;datatype:string,name:WHAddress;datatype:string,name:WHPhone;datatype:string,name:WHContactPerson;datatype:string,name:WHComments;datatype:string" />
+	<infoitem key="UD_RsGetWearhouses" value="name:WHID;datatype:int,name:WHName;datatype:string" />
+	<infoitem key="UD_RsGetItemUnits" value="name:InvItemUnitID;datatype:int,name:InvItemUnitName;datatype:string" />
+	<infoitem key="UD_RsGetItemTypes" value="name:InvItemTypeID;datatype:int,name:InvtemTypeName;datatype:string,name:InvItemComments;datatype:string" />
+	<infoitem key="UD_RsGetSelectedItem" value="name:InvItemID;datatype:int,name:InvItemCode;datatype:string,name:InvItemBarCode;datatype:string,name:InvItemDescription;datatype:string,name:InvItemSalesPrice;datatype:real,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:InvItemUnitID;datatype:int,name:InvItemTypeID;datatype:int" />
+	<infoitem key="UD_RsGetInventoryItemsAll" value="name:InvItemID;datatype:int,name:InvItemCode;datatype:string,name:InvItemBarCode;datatype:string,name:InvItemDescription;datatype:string,name:InvItemSalesPrice;datatype:real,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:InvItemUnitID;datatype:int,name:InvItemTypeID;datatype:int,name:InvtemTypeName;datatype:string,name:InvItemUnitName;datatype:string" />
+</info>

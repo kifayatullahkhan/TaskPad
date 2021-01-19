@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetSupplierDetails" value="name:VoucherReferenceNo;datatype:string,name:SupplierID;datatype:int,name:SupplierName;datatype:string,name:ContactPerson;datatype:string,name:City;datatype:string,name:OnAccountOf;datatype:string,name:Dated;datatype:date,name:Status;datatype:string,name:VoucherNo;datatype:string,name:VoucherID;datatype:int" />
+	<infoitem key="UD_RsGetSupplierUnpaidInvoices" value="name:POPIID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderTime;datatype:timestamp,name:SupplierID;datatype:int,name:OrderStatus;datatype:string,name:SupplierInvoiceCode;datatype:string" />
+	<infoitem key="UD_RsGetSuppliersUnpaidPurchasesInvoices" value="name:POPIID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderTime;datatype:timestamp,name:SupplierID;datatype:int,name:OrderStatus;datatype:string,name:SupplierInvoiceCode;datatype:string" />
+</info>

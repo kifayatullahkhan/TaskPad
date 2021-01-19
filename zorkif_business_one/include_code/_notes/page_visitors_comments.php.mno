@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetVisitosComments" value="name:CommentID;datatype:int,name:VisitorName;datatype:string,name:VisitorEmail;datatype:string,name:VisitorComments;datatype:string,name:PageName;datatype:string,name:Dated;datatype:timestamp,name:VisitorIP;datatype:string,name:Status;datatype:int" />
+</info>

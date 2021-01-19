@@ -1,0 +1,70 @@
+@font-face {
+ font-family:MyCustomFont;
+ src: url("../font/NeoSansArabic.ttf") /* TTF file for CSS3 browsers */
+}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+	table-layout:auto;
+	vertical-align:top;
+	margin-bottom:15px;
+	border:1px solid #CCCCCC;
+	font-family:MyCustomFont;
+	color:#666;
+	}
+.DataEnteryTable {
+	border: solid 1px #333333;
+	padding: 10px;
+	color:#666;
+	margin-bottom:20px;
+		text-align:right;
+	
+}
+.DataEnteryTable table{
+	color:#666;
+
+
+	
+	
+}
+table thead th{
+	color:#FFFFFF;
+	background-color:#666666;
+	border:1px solid #CCCCCC;
+	border-collapse:collapse;
+	text-align:center;
+	table-layout:auto;
+	vertical-align:middle;
+	}
+.DarkHeaderRow{	
+	background-color:#000000; 
+	text-wrap:none;
+	color:#FFF;
+	font-size:1em;
+
+}
+table tbody td{
+	vertical-align:top;
+	border-collapse:collapse;
+	
+	}
+	
+table thead th, table tbody td{
+	padding:5px;
+	border-collapse:collapse;
+	font-size:0.95em;
+	}
+
+table tbody tr.light{
+	color:#666666;
+	background-color:#F7F7F7;
+	
+	}
+table td.small{
+	font-size:0.69em;	
+}
+table tbody tr.dark{
+	color:#666666;
+	background-color:#E8E8E8;
+	}

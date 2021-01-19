@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetExpensesVouchers" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetSelectedVoucher" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetExpensesListPerVoucher" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string,name:TotalAmount;datatype:real" />
+	<infoitem key="UD_Rs_GetToadaysTotalExpenses" value="name:Dated;datatype:date,name:TotalAmount;datatype:real" />
+	<infoitem key="UD_Rs_GetTodaysTotal" value="name:Dated;datatype:date,name:TotalAmount;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:Dated;datatype:date,name:TotalAmount;datatype:real" />
+	<infoitem key="UD_Rs_GetCurrentMonthTotal" value="name:TotalAmount;datatype:real" />
+	<infoitem key="UD_Rs_GetCurrentYearTotal" value="name:TotalAmount;datatype:real" />
+</info>

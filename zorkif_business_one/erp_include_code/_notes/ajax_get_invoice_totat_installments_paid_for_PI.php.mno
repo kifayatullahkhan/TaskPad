@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_Get_InvoiceTotal" value="name:TotalPayableAmount;datatype:real" />
+	<infoitem key="UD_Rs_GetPurchaseVoucherDetailsForPI" value="name:PPVDID;datatype:int,name:POPIID;datatype:int,name:VoucherID;datatype:int,name:Amount;datatype:real,name:Description;datatype:string" />
+</info>

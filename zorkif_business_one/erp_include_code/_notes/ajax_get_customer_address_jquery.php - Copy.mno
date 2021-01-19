@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_ReGetCustomerAddress" value="name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+</info>

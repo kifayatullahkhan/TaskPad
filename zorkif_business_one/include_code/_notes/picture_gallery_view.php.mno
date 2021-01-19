@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetPictures" value="name:PictureID;datatype:int,name:PictureFilename;datatype:string,name:Description;datatype:string,name:PictureAlbumID;datatype:int,name:Username;datatype:string,name:PictureAlbumName;datatype:string,name:Comments;datatype:string" />
+</info>

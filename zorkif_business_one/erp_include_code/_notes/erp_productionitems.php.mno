@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsProductionItemUnits" value="name:PIUTID;datatype:int,name:PIUTName;datatype:string,name:PIUTComments;datatype:string" />
+	<infoitem key="UD_RsProductionItemTypes" value="name:PITID;datatype:int,name:PITypeName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedItem" value="name:PItemID;datatype:int,name:PItemCode;datatype:string,name:PItemBarCode;datatype:string,name:PItemDescription;datatype:string,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:PIUTID;datatype:int,name:PITID;datatype:int" />
+	<infoitem key="UD_RsGetProductionItems" value="name:PItemID;datatype:int,name:PItemCode;datatype:string,name:PItemBarCode;datatype:string,name:PItemDescription;datatype:string,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:PIUTID;datatype:int,name:PITID;datatype:int,name:PIUTID;datatype:int,name:PIUTName;datatype:string,name:PIUTComments;datatype:string,name:PITID;datatype:int,name:PITypeName;datatype:string" />
+	<infoitem key="UD_RsGetWearHouses" value="name:WHID;datatype:int,name:WHName;datatype:string" />
+</info>

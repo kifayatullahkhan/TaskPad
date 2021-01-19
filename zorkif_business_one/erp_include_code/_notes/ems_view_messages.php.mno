@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetInbox" value="name:MessageID;datatype:int,name:FromUsername;datatype:string,name:ToUsername;datatype:string,name:ToGroupID;datatype:int,name:Subject;datatype:string,name:MessageText;datatype:blob,name:AttachementFileName;datatype:string,name:SendDate;datatype:date,name:SendTime;datatype:time,name:ReadStatus;datatype:string,name:Status;datatype:string" />
+</info>

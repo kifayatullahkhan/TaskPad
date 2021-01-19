@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsClientReservations" value="name:ReservationID;datatype:int,name:FullName;datatype:string,name:Room_ReservationID;datatype:int,name:ReservationID;datatype:int,name:RoomSectionID;datatype:int,name:ReservationTypeID;datatype:int,name:StartDate;datatype:date,name:EndDate;datatype:date,name:ReservationTypeName;datatype:string,name:RoomNoSectionName;datatype:string" />
+	<infoitem key="UD_GetCleintName" value="name:ReservationID;datatype:int,name:FullName;datatype:string,name:MobileNo;datatype:string,name:Email;datatype:string,name:Dated;datatype:date" />
+	<infoitem key="UD_RsGetReservations" value="name:Room_ReservationID;datatype:int,name:ReservationID;datatype:int,name:RoomSectionID;datatype:int,name:ReservationTypeID;datatype:int,name:StartDate;datatype:date,name:EndDate;datatype:date,name:ReservationTypeName;datatype:string,name:RoomNoSectionName;datatype:string" />
+</info>

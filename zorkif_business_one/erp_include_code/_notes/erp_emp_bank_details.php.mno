@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetEmpBankDetailsForEdit" value="name:EBDID;datatype:int,name:EmployeeID;datatype:int,name:BankTitleName;datatype:string,name:AccountNumber;datatype:string,name:IBAN;datatype:string,name:BankName;datatype:string,name:BankAddress;datatype:string" />
+	<infoitem key="UD_RS_GetAllEmpBankDetails" value="name:EBDID;datatype:int,name:EmployeeID;datatype:int,name:BankTitleName;datatype:string,name:AccountNumber;datatype:string,name:IBAN;datatype:string,name:BankName;datatype:string,name:BankAddress;datatype:string" />
+</info>

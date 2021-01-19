@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllReocrds" value="name:OPCFID;datatype:int,name:ElectricityCost;datatype:real,name:EmployeeCost;datatype:real" />
+	<infoitem key="UD_RsGetSelectedRecord" value="name:OPCFID;datatype:int,name:ElectricityCost;datatype:real,name:EmployeeCost;datatype:real" />
+</info>

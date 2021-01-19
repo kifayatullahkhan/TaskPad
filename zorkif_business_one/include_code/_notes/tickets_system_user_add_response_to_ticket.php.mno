@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetTicketResponses" value="name:ResponceID;datatype:int,name:TicketID;datatype:string,name:ResponceText;datatype:blob,name:Author;datatype:string,name:UpdateDate;datatype:string,name:Attachments;datatype:string" />
+	<infoitem key="UD_Rs_GetUserTicket" value="name:Subject;datatype:string,name:TicketText;datatype:blob" />
+</info>

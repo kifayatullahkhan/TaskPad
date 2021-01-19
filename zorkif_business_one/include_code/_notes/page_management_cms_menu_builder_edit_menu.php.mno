@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetPages" value="name:PageID;datatype:int,name:PageName;datatype:string,name:LinkTag;datatype:string" />
+	<infoitem key="UD_Rs_GetMenu" value="name:MenuID;datatype:int,name:MenuName;datatype:string,name:LinkTag;datatype:string,name:MenuOrder;datatype:int,name:PageID;datatype:int,name:ShowOnHeader;datatype:int,name:ShowOnFooter;datatype:int,name:ShowOnLeft;datatype:int,name:ShowOnRight;datatype:int" />
+</info>

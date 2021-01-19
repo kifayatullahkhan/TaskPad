@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetPageHeaderInformation" value="name:PageName;datatype:string,name:Meta_Keywords;datatype:string,name:Meta_Description;datatype:string,name:LinkTag;datatype:string" />
+</info>

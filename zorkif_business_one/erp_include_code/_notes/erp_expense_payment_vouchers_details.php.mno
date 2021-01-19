@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetCustomers" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetCustomerOrders" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedOrder" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetExpensePaymentVoucher" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetExppensesTypes" value="name:ExpenseTypeID;datatype:int,name:ExpenseType;datatype:string,name:Description;datatype:string" />
+	<infoitem key="UD_RsGetExpensesPaymentVoucherDetails" value="name:ExpenseID;datatype:int,name:Amount;datatype:real,name:ExpenseTypeID;datatype:int,name:VoucherID;datatype:int,name:Description;datatype:string,name:ExpenseType;datatype:string" />
+	<infoitem key="UD_RsGetSelectedVoucherDetails" value="name:ExpenseID;datatype:int,name:Amount;datatype:real,name:ExpenseTypeID;datatype:int,name:VoucherID;datatype:int,name:Description;datatype:string" />
+	<infoitem key="UD_RsGetVoucherTotalAmountSum" value="name:Amount;datatype:real" />
+</info>

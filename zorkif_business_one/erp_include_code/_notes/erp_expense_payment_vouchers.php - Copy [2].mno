@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetInventoryItems" value="name:InvItemID;datatype:int,name:InvItemCode;datatype:string" />
+	<infoitem key="UD_Rs_GetSelectedCustomerOrder" value="name:CustomerOrderID;datatype:int,name:Username;datatype:string,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderStatus;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedOrderItem" value="name:CODID;datatype:int,name:CustomerOrderID;datatype:int,name:InvItemID;datatype:int,name:Quantity;datatype:int,name:Price_Per_Unit;datatype:int" />
+	<infoitem key="UD_RsGetCustomerOrderForDeliveryFormUpdate" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderStatus;datatype:string" />
+	<infoitem key="UD_RsGetCustomers" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetCustomerOrders" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:DeliveryAddress;datatype:string,name:OrderStatus;datatype:string,name:Username;datatype:string,name:DeliveryDriverName;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedOrder" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:DeliveryAddress;datatype:string,name:OrderStatus;datatype:string,name:Username;datatype:string,name:DeliveryDriverName;datatype:string" />
+	<infoitem key="UD_Rs_GetExpensesVouchers" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetSelectedVoucher" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetAccountHeads" value="name:AccountHeadID;datatype:int,name:AccountHead;datatype:string,name:Comments;datatype:string" />
+</info>

@@ -1,0 +1,254 @@
+/* CSS Document */
+
+@font-face {
+ font-family:MyCustomFont;
+ src: url("../../font/NeoSansArabic.ttf") /* TTF file for CSS3 browsers */
+}
+
+h3#why {
+	background: url(images/why_bg.png) no-repeat top left;
+	background-color:#000;
+	position: relative;
+	padding: 10px;
+	color: #FFF;
+}
+#searchBox {
+	border: 2px;
+	border-style:solid;
+	border-color: #F9AE08;
+	color: #000000;
+	padding:10px;
+	margin:20px;
+	background-color: #FFFEBF;
+}
+.SkyBlueTextBox {
+	font-family:MyCustomFont;
+	color: #333333;
+	background-color: #E3F1F9;
+	border: 1px solid #000000;
+	height:16px;
+	width:130px;
+	margin:0px;
+}
+.tableTitleTopCell{
+	padding:4px;
+	background-color: #808080;
+	font-family:MyCustomFont;
+	color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	font-weight: bold;
+	letter-spacing: 1px;
+}
+.tableheadingCell{
+	padding:4px;
+	background-color: #FFFFFF;
+	font-family:MyCustomFont;
+	color: #000000;
+
+}
+.tablesubheadingCell{
+	padding:4px;
+	background-color: #E1E9FE;
+	font-family:MyCustomFont;
+	color: #000000;
+	
+}	
+.td_underline {
+	font-family:MyCustomFont;
+	font-weight: bold;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	border-bottom-color: #536FA8;
+	border-left-color: #374A71;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 2px;
+}
+.Note_Book_Style_Lines {
+	font-family:MyCustomFont;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #ADD6ED;
+}
+.warning_msg {
+	font-family:MyCustomFont;
+	color: #FF0000;
+}
+
+.roundedmenubox {
+	margin:0px;
+	-moz-border-radius:0.5em;
+	-webkit-border-radius:0.5em;
+	text-align:center;
+	vertical-align:middle;
+}
+
+.roundedmenubox a {
+	color:#000000;
+	font-size:15px;
+	text-align:center;
+	text-decoration:none;
+	border:2px solid #99defd;
+	background-color:#F4FEFF;
+	padding-top:3px;
+	width:105px;
+	height:115px;
+	display: block;
+	-moz-border-radius:0.5em;
+	-webkit-border-radius:0.5em;
+}
+.roundedmenubox a:hover {
+	color:#025073;	
+	border:2px solid #0084bf;
+	background-color:#eaf6fd;
+	padding-top:3px;
+	text-align:center;
+	text-decoration:none;
+	display: block;
+
+}
+
+.roundedmenubox img {
+	text-align:center;
+	padding-left:25px;
+	padding-top:10px;
+
+}
+
+.ShortTextArea{
+	padding:10px; background-color:#FFFFFF; border:#35770D solid 1px;
+	height:40px;
+	overflow:auto;
+}
+
+.small-text{
+	font-size:9px;
+}
+#PageBodyAreaforText{
+	margin:0px;
+	padding:0px;
+	text-align:justify;
+	font-family:MyCustomFont;
+	font-size:15px
+
+}
+
+.CPanelTableView{
+	width:560px;	
+	margin:20px;
+}
+.CPanelTableView table{
+	background-color: #F1F6FB;
+	
+}
+.CPanelTableView table td{
+	padding:10px;
+	
+}
+
+
+.DetailView table {
+	border-width: 1px;
+	border-color: #333;
+	border-style: solid;
+	color: #000;
+	font-family:MyCustomFont;
+	font-size:1em;
+	font-weight:bold;
+	padding: 5px;	
+}
+
+.DetailView table tr:hover{
+	border: 1px solid #4C6198;
+	color: #FFF;
+}
+.DetailView table th {
+	padding: 5px;
+	border: 1px solid #C8CABD;
+	text-transform: capitalize;
+	color: #FFF;
+	background-color: #000;
+}
+.DetailView table th {
+	padding: 5px;
+}
+
+.DataEntryView table {
+	border-width: 0px;
+	border-color: #333;
+	border-style: solid;
+	color: #000;
+	font-family: MyCustomFont;
+	font-size: 15px;
+	font-weight: normal;
+	padding: 5px;
+}
+
+.DataEntryView table td {
+	padding:5px;
+	vertical-align:middle;
+}
+.DataEntryView input[type=password],input[type=text] {
+	min-height:20px;
+	height:auto;
+	min-width:60px;
+	background-color:#FFF;
+	border-color: #000;
+	border-style:solid;
+	border-collapse:separate;
+	border-width:1px;
+	padding-left:5px;
+
+}
+.DataEntryView #body-select select{
+	min-height:30px;
+	height:auto; 
+	/*min-width:100px;	*/
+	background-color:#FFF;
+	border-color:  #000;
+	border-style:solid;
+	border-collapse:separate;
+
+	border-width:1px;
+	padding-left:5px;
+	
+}
+.DataEntryView #body-select input[type=submit]{
+	min-height:15px;
+	height:auto;
+	/*width:auto;*/
+	background-color:#FDDE64;
+	border-color: #000;
+	border-style:solid;
+	border-collapse:separate;
+	border-width:1px;
+	padding-left:5px;
+	padding:5px;
+	margin:10px;
+}
+
+.clearfix:after {
+	content:".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+.clearfix {display:inline-block;}
+/* Hides from IE-mac \*/
+* html .clearfix { height:1%; }
+.clearfix {display:block;}
+/* End hide from IE-mac */
+
+.MyScrollArea {
+	overflow:scroll;
+	height:150px;
+	border:#666 1px solid;	
+}

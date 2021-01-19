@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetOrderFormDetailsSectionTop" value="name:PurchaseOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:SupplierID;datatype:int,name:OrderStatus;datatype:string,name:SupplierName;datatype:string" />
+	<infoitem key="UD_Rs_GetProductUnitsTypes" value="name:PIUTID;datatype:int,name:PIUTName;datatype:string,name:PIUTComments;datatype:string" />
+	<infoitem key="UD_RsGetProductionItemsList" value="name:PItemID;datatype:int,name:PItemCode;datatype:string,name:PItemDescription;datatype:string" />
+	<infoitem key="UD_Rs_GetPurchaseOrderDetails" value="name:PODID;datatype:int,name:PItemID;datatype:int,name:PItemCode;datatype:string,name:PItemDescription;datatype:string,name:Quantity;datatype:int,name:PIUTName;datatype:string,name:Price_Per_Unit;datatype:int,name:TotalPrice;datatype:int" />
+</info>

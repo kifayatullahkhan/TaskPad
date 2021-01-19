@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsSupppliers" value="name:SupplierID;datatype:int,name:SupplierName;datatype:string" />
+	<infoitem key="UD_RsGetPurchaseOrders" value="name:PurchaseOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderStatus;datatype:string,name:SupplierName;datatype:string" />
+</info>

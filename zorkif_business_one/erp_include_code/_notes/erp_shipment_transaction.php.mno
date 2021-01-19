@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetTrackingForEdit" value="name:STID;datatype:int,name:ShiptmentNo;datatype:int,name:Description;datatype:string,name:Dated;datatype:date" />
+	<infoitem key="UD_RS_GetTrackingInfo" value="name:STID;datatype:int,name:ShiptmentNo;datatype:int,name:Description;datatype:string,name:Dated;datatype:date" />
+</info>

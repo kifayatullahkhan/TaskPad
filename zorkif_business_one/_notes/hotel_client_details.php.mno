@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetReservationTypes" value="name:ReservationTypeID;datatype:int,name:ReservationTypeName;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_GetHotelRoomsSection" value="name:RoomSectionID;datatype:int,name:RoomNoSectionName;datatype:string,name:FacilitiesList;datatype:string,name:Section12HourCharges;datatype:real,name:Section24HourCharges;datatype:real" />
+	<infoitem key="UD_RsReservationTypes" value="name:ReservationTypeID;datatype:int,name:ReservationTypeName;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_RsSections" value="name:RoomSectionID;datatype:int,name:RoomNoSectionName;datatype:string" />
+</info>

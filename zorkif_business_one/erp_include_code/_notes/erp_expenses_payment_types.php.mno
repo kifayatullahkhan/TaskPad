@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetSelectedItemType" value="name:InvItemTypeID;datatype:int,name:InvItemTypeName;datatype:string,name:InvItemComments;datatype:string" />
+	<infoitem key="UD_RsGetItemsTypesAll" value="name:InvItemTypeID;datatype:int,name:InvItemTypeName;datatype:string,name:InvItemComments;datatype:string" />
+</info>

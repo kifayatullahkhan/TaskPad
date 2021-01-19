@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetShipmentForEdit" value="name:ShiptmentNo;datatype:int,name:ShipmentForOrderNo;datatype:int,name:ShipmentDetails;datatype:blob,name:ShipmentStartDate;datatype:date" />
+	<infoitem key="UD_RS_GetAllShipment" value="name:ShiptmentNo;datatype:int,name:ShipmentForOrderNo;datatype:int,name:ShipmentDetails;datatype:blob,name:ShipmentStartDate;datatype:date" />
+</info>

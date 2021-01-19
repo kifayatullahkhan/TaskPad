@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetCustomers" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetCustomerOrders" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:OrderStatus;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedOrder" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:OrderStatus;datatype:string" />
+	<infoitem key="UD_Rs_GetSelectedCustomerOrder" value="name:CustomerOrderID;datatype:int,name:Username;datatype:string,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderStatus;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetInventoryItems" value="name:InvItemID;datatype:int,name:InvItemCode;datatype:string" />
+	<infoitem key="UD_RsGet_ItemsInThisOrder" value="name:CODID;datatype:int,name:CustomerOrderID;datatype:int,name:PItemID;datatype:int,name:Quantity;datatype:int,name:Price_Per_Unit;datatype:int" />
+	<infoitem key="UD_RsGetCustomerOrderInventoryItems" value="name:InvItemID;datatype:int,name:InvItemCode;datatype:string,name:InvItemBarCode;datatype:string,name:InvItemDescription;datatype:string,name:InvItemSalesPrice;datatype:real,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:InvItemUnitID;datatype:int,name:InvItemTypeID;datatype:int,name:InvItemTypeName;datatype:string,name:InvItemUnitName;datatype:string,name:Quantity;datatype:int,name:Price_Per_Unit;datatype:int,name:CustomerOrderID;datatype:int" />
+	<infoitem key="UD_RsGetSelectedOrderItem" value="name:CODID;datatype:int,name:CustomerOrderID;datatype:int,name:InvItemID;datatype:int,name:Quantity;datatype:int,name:Price_Per_Unit;datatype:int" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetCustomers" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetCustomerOrders" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:OrderStatus;datatype:string,name:CustomerName;datatype:string" />
+	<infoitem key="UD_RsGetSelectedOrder" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:CustomerID;datatype:int,name:OrderStatus;datatype:string" />
+</info>

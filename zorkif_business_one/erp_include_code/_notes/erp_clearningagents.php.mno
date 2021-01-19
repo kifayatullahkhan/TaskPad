@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllReocrds" value="name:ClearingAgentID;datatype:int,name:ClearingAgentName;datatype:string,name:Phone;datatype:string,name:Email;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetSelectedRecord" value="name:ClearingAgentID;datatype:int,name:ClearingAgentName;datatype:string,name:Phone;datatype:string,name:Email;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+</info>

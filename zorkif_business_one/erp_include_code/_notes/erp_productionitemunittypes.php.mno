@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllReocrds" value="name:PIUTID;datatype:int,name:PIUTName;datatype:string,name:PIUTComments;datatype:string" />
+	<infoitem key="UD_RsGetSelectedRecord" value="name:PIUTID;datatype:int,name:PIUTName;datatype:string,name:PIUTComments;datatype:string" />
+</info>

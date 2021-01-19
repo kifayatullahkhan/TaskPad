@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetProductionItems" value="name:PItemID;datatype:int,name:PItemCode;datatype:string,name:PItemBarCode;datatype:string,name:PItemDescription;datatype:string,name:WHID;datatype:int,name:StockPositionQuantity;datatype:int,name:WarningLevelStockPositionQty;datatype:int,name:PIUTID;datatype:int,name:PITID;datatype:int" />
+	<infoitem key="UD_RsGetUsedItems" value="name:ProductionItemusageID;datatype:int,name:ProductionReferenceNo;datatype:string,name:PItemID;datatype:int,name:QuantityUsed;datatype:real,name:DateTime;datatype:timestamp,name:PItemCode;datatype:string,name:PItemDescription;datatype:string" />
+</info>

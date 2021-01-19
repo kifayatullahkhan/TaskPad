@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetBankDepositEntry" value="name:DepositID;datatype:int,name:BankID;datatype:int,name:DepositerName;datatype:string,name:Amount;datatype:real,name:Dated;datatype:date,name:ReciptNo;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_TotalBankDeposits" value="name:TotalBankDeposits;datatype:real" />
+	<infoitem key="UD_Rs_TotalBankWithdrawls" value="name:TotalBankWithDrawls;datatype:real" />
+	<infoitem key="UD_Rs_GetBankAccounts" value="name:BankID;datatype:int,name:BankName;datatype:string,name:AccountNumber;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_GetCreditTransactions" value="name:TransactionID;datatype:int,name:Dated;datatype:date,name:BankID;datatype:int,name:Description;datatype:string,name:DebitAmount;datatype:real,name:CreditAmount;datatype:real,name:AccountNumber;datatype:string,name:BankName;datatype:string" />
+	<infoitem key="UD_Rs_GetSelectedTransaction" value="name:TransactionID;datatype:int,name:Dated;datatype:date,name:BankID;datatype:int,name:Description;datatype:string,name:DebitAmount;datatype:real,name:CreditAmount;datatype:real" />
+	<infoitem key="UD_Recordset1" value="name:BankID;datatype:int,name:BankName;datatype:string,name:AccountNumber;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_GetAccountTotalBalanceAmount" value="name:DebitAmount;datatype:real,name:CreditAmount;datatype:real,name:BalanceAmount;datatype:real,name:BankName;datatype:string,name:AccountNumber;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_Get_Users_Tickets" value="name:TicketID;datatype:int,name:DepartmentID;datatype:int,name:Subject;datatype:string,name:TicketText;datatype:blob,name:PostDate;datatype:string,name:IsPublic;datatype:string,name:UpdateDate;datatype:string,name:IsClosed;datatype:int,name:Attachments;datatype:string,name:Author;datatype:string" />
+</info>

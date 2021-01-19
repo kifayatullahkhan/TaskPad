@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetTrackingDetails" value="name:ShipmentDetails;datatype:blob,name:ShipmentStartDate;datatype:date,name:Description;datatype:string,name:Dated;datatype:date" />
+</info>

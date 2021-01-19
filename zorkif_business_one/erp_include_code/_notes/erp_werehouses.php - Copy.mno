@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllRecords" value="name:WHID;datatype:int,name:WHName;datatype:string,name:WHAddress;datatype:string,name:WHPhone;datatype:string,name:WHContactPerson;datatype:string,name:WHComments;datatype:string" />
+	<infoitem key="UD_RSGetSelectedRecord" value="name:WHID;datatype:int,name:WHName;datatype:string,name:WHAddress;datatype:string,name:WHPhone;datatype:string,name:WHContactPerson;datatype:string,name:WHComments;datatype:string" />
+</info>

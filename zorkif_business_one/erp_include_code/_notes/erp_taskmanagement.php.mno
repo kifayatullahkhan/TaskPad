@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_Add_New_Taskmanagement" value="name:Task_ID;datatype:int,name:Task_Username;datatype:string,name:Task_Title;datatype:string,name:Task_Periority;datatype:string,name:Task_Status;datatype:string,name:Task_Completion;datatype:string,name:Task_Description;datatype:string,name:Task_Start_Date;datatype:date,name:Task_Due_Date;datatype:date,name:Task_Complete_Date;datatype:date" />
+	<infoitem key="UD_Rs_Delete_Task" value="name:Task_ID;datatype:int,name:Task_Username;datatype:string,name:Task_Title;datatype:string,name:Task_Periority;datatype:string,name:Task_Status;datatype:string,name:Task_Completion;datatype:string,name:Task_Description;datatype:string,name:Task_Start_Date;datatype:date,name:Task_Due_Date;datatype:date,name:Task_Complete_Date;datatype:date" />
+	<infoitem key="UD_Rs_Get_Record_For_Edit" value="name:Task_ID;datatype:int,name:Task_Username;datatype:string,name:Task_Title;datatype:string,name:Task_Periority;datatype:string,name:Task_Status;datatype:string,name:Task_Completion;datatype:string,name:Task_Description;datatype:string,name:Task_Start_Date;datatype:date,name:Task_Due_Date;datatype:date,name:Task_Complete_Date;datatype:date" />
+	<infoitem key="UD_Rs_GetUserNames" value="name:UserID;datatype:int,name:Username;datatype:string,name:FullName;datatype:string" />
+</info>

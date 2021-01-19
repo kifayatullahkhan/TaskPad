@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_get_ticket" value="name:TicketID;datatype:int,name:DepartmentID;datatype:int,name:Subject;datatype:string,name:TicketText;datatype:blob,name:PostDate;datatype:string,name:IsPublic;datatype:string,name:UpdateDate;datatype:string,name:IsClosed;datatype:int,name:Attachments;datatype:string,name:Author;datatype:string" />
+	<infoitem key="UD_RsGetReplysOfThisTicket" value="name:ResponceID;datatype:int,name:TicketID;datatype:string,name:ResponceText;datatype:blob,name:Author;datatype:string,name:UpdateDate;datatype:string,name:Attachments;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllRecords" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string,name:Username;datatype:string,name:AttachedFile;datatype:string" />
+	<infoitem key="UD_RsGetSelectedRecord" value="name:CustomerID;datatype:int,name:CustomerName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string,name:Username;datatype:string,name:AttachedFile;datatype:string" />
+</info>

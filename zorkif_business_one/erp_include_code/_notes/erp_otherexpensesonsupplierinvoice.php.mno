@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetAllReocrds" value="name:ClearingAgentID;datatype:int,name:ClearingAgentName;datatype:string,name:Phone;datatype:string,name:Email;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_RsGetSelectedRecord" value="name:ClearingAgentID;datatype:int,name:ClearingAgentName;datatype:string,name:Phone;datatype:string,name:Email;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string" />
+	<infoitem key="UD_Rs_GetSuppliersCompanyList" value="name:SupplierID;datatype:int,name:SupplierName;datatype:string" />
+	<infoitem key="UD_GetSuppliersInvoicesList" value="name:POPIID;datatype:int,name:OrderReferenceNo;datatype:string" />
+	<infoitem key="UD_Rs_GetClearingAgentNames" value="name:ClearingAgentID;datatype:int,name:ClearingAgentName;datatype:string" />
+	<infoitem key="UD_RsGetAllExpensesList" value="name:OEOSIID;datatype:int,name:SupplierID;datatype:int,name:POPIID;datatype:int,name:CustomDuty;datatype:real,name:PortDuty;datatype:real,name:DeleryOrder;datatype:real,name:Transportation;datatype:real,name:ClearingAgentCharges;datatype:real,name:LabourCharges;datatype:real,name:LABTestingCharges;datatype:real,name:Detention_Mina;datatype:real,name:Detention_Container;datatype:real,name:OtherCharges;datatype:real,name:ClearingAgentID;datatype:int,name:Description;datatype:string,name:SupplierName;datatype:string,name:ClearingAgentName;datatype:string" />
+	<infoitem key="UD_RsGetOtherExpensesList" value="name:OEOSIID;datatype:int,name:SupplierID;datatype:int,name:POPIID;datatype:int,name:CustomDuty;datatype:real,name:PortDuty;datatype:real,name:DeleryOrder;datatype:real,name:Transportation;datatype:real,name:ClearingAgentCharges;datatype:real,name:LabourCharges;datatype:real,name:LABTestingCharges;datatype:real,name:Detention_Mina;datatype:real,name:Detention_Container;datatype:real,name:OtherCharges;datatype:real,name:ClearingAgentID;datatype:int,name:Description;datatype:string,name:SupplierName;datatype:string,name:ClearingAgentName;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetUserFiles" value="name:UserFileID;datatype:int,name:UserFileName;datatype:string,name:FolderID;datatype:int,name:Username;datatype:string,name:IsPublic;datatype:int,name:SharedGroup;datatype:int,name:Comments;datatype:string,name:FolderName;datatype:string" />
+</info>

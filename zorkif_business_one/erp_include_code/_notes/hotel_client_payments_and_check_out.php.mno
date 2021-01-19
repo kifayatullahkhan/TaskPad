@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetClientDetails" value="name:ClientID;datatype:int,name:FullName;datatype:string,name:NatioanalID_IqmaNo;datatype:string,name:MobileNo;datatype:string,name:StartDate;datatype:date,name:StartTime;datatype:time,name:EndDate;datatype:date,name:EndTime;datatype:time,name:AgreementSerialNo;datatype:string,name:ReservationTypeID;datatype:int,name:RoomSectionID;datatype:int,name:SecurityAmount;datatype:real,name:SecurityDeducted;datatype:real,name:AdvanceAmount;datatype:real,name:BalanceAmount;datatype:real,name:OtherCharges;datatype:real,name:TotalAmountPaid;datatype:real,name:RoomNoSectionName;datatype:string,name:FacilitiesList;datatype:string,name:Section12HourCharges;datatype:real,name:Section24HourCharges;datatype:real" />
+</info>

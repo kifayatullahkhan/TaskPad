@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_TotalPayment" value="name:CustomerOrderID;datatype:int,name:TOTAL;datatype:real" />
+</info>

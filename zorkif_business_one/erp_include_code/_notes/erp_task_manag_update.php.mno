@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_Show_Tasks" value="name:Task_ID;datatype:int,name:Task_Username;datatype:string,name:Task_Title;datatype:string,name:Task_Periority;datatype:string,name:Task_Status;datatype:string,name:Task_Completion;datatype:string,name:Task_Description;datatype:string,name:Task_Start_Date;datatype:date,name:Task_Due_Date;datatype:date,name:Task_Complete_Date;datatype:date" />
+	<infoitem key="UD_Rs_Record_For_Edit" value="name:Task_ID;datatype:int,name:Task_Username;datatype:string,name:Task_Title;datatype:string,name:Task_Periority;datatype:string,name:Task_Status;datatype:string,name:Task_Completion;datatype:string,name:Task_Description;datatype:string,name:Task_Start_Date;datatype:date,name:Task_Due_Date;datatype:date,name:Task_Complete_Date;datatype:date" />
+</info>

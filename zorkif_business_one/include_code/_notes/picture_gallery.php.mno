@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetPictureAlbumName" value="name:PictureAlbumID;datatype:int,name:PictureAlbumName;datatype:string,name:Username;datatype:string,name:IsPublic;datatype:int,name:Comments;datatype:string" />
+	<infoitem key="UD_Rs_GetGalleryPicsList" value="name:PictureID;datatype:int,name:PictureFilename;datatype:string,name:Description;datatype:string,name:PictureAlbumID;datatype:int,name:PictureAlbumName;datatype:string,name:Comments;datatype:string" />
+	<infoitem key="UD_RsGetAlbumsNames" value="name:PictureAlbumID;datatype:int,name:PictureAlbumName;datatype:string,name:Username;datatype:string,name:IsPublic;datatype:int,name:Comments;datatype:string" />
+</info>

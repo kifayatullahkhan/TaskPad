@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetEmpDependents" value="name:EDID;datatype:int,name:EmployeeName;datatype:string,name:Name;datatype:string,name:Gender;datatype:string,name:DOB;datatype:date,name:Relation;datatype:string,name:PassportNo;datatype:string,name:ExpiryDate;datatype:date,name:PlaceOfIssue;datatype:string,name:IqamaNo;datatype:string,name:Expiry;datatype:date" />
+	<infoitem key="UD_RS_GetEmpDepForEdit" value="name:EDID;datatype:int,name:EmployeeID;datatype:int,name:Name;datatype:string,name:Gender;datatype:string,name:DOB;datatype:date,name:Relation;datatype:string,name:PassportNo;datatype:string,name:ExpiryDate;datatype:date,name:PlaceOfIssue;datatype:string,name:IqamaNo;datatype:string,name:Expiry;datatype:date" />
+</info>

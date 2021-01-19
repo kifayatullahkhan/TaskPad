@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetCapitalAccount" value="name:CapitalAmount;datatype:real,name:Partner1Name;datatype:string,name:Partner1Percentage;datatype:real,name:Partner1Amount;datatype:real,name:Partner2Name;datatype:string,name:Partner2Percentage;datatype:real,name:Partner2Amount;datatype:real,name:Partner3Name;datatype:string,name:Partner3Percentage;datatype:real,name:Partner3Amount;datatype:real" />
+</info>

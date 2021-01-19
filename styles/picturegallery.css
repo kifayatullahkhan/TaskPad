@@ -1,0 +1,29 @@
+/* CSS Document */
+
+
+div.PictureGallery1
+  {
+	margin:2px;
+	border:1px solid #0000ff;
+	width:110px;
+	height:90px;
+	float:left;
+	text-align:center;
+  }
+div.PictureGallery img
+  {
+
+  margin:3px;
+  border:1px solid #ffffff;
+  }
+div.PictureGallery a:hover img
+  {
+  border:1px solid #0000ff;
+  }
+div.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:2px;
+  }

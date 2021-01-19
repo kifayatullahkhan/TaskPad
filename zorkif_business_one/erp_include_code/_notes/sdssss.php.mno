@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetTotal" value="name:CustomerOrderID;datatype:int,name:Quantity;datatype:int,name:Price_Per_Unit;datatype:real,name:TotalPrice;datatype:real,name:DiscountInPercentage;datatype:int,name:TotalDiscount;datatype:real,name:DescountPrice;datatype:real" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rs_GetProformaInvoices" value="name:POPIID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderTime;datatype:timestamp,name:SupplierID;datatype:int,name:OrderStatus;datatype:string,name:SupplierInvoiceCode;datatype:string" />
+	<infoitem key="UD_Rs_GetExpensesVouchers" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetSelectedVoucher" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:Dated;datatype:date,name:Username;datatype:string" />
+	<infoitem key="UD_RsGetSuppliers" value="name:SupplierID;datatype:int,name:SupplierName;datatype:string,name:ContactPerson;datatype:string,name:ContactPhone;datatype:string,name:ContactEmail;datatype:string,name:Address;datatype:string,name:City;datatype:string,name:Country;datatype:string,name:AttachedFile;datatype:string" />
+	<infoitem key="UD_RsGetPaymentVouchers" value="name:VoucherID;datatype:int,name:VoucherNo;datatype:string,name:VoucherReferenceNo;datatype:string,name:SupplierID;datatype:int,name:OnAccountOf;datatype:string,name:Dated;datatype:date,name:PPVTime;datatype:timestamp,name:Username;datatype:string,name:Status;datatype:string,name:SupplierName;datatype:string,name:City;datatype:string" />
+</info>

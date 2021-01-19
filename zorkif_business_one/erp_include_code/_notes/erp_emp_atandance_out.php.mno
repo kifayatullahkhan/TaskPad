@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RS_GetAttandanceForEdit" value="name:EAID;datatype:int,name:PINCode;datatype:int,name:StartDate;datatype:datetime,name:EndDate;datatype:datetime" />
+</info>

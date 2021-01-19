@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_RsGetSelectedOrder" value="name:CustomerOrderID;datatype:int,name:OrderReferenceNo;datatype:string,name:OrderDate;datatype:date,name:OrderTime;datatype:timestamp,name:CustomerID;datatype:int,name:DeliveryAddress;datatype:string,name:OrderStatus;datatype:string,name:Username;datatype:string,name:DeliveryDriverName;datatype:string" />
+</info>
